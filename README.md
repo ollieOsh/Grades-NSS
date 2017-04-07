@@ -1,0 +1,1 @@
+# creating functions to print highest grade, lowest grade, and the number of each grade (A, B, etc;) in a given array to the console
